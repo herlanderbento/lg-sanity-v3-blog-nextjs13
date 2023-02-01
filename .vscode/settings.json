@@ -2,9 +2,11 @@
   "typescript.tsdk": "node_modules\\typescript\\lib",
   "typescript.enablePromptUseWorkspaceTsdk": true,
   "cSpell.words": [
+    "groq",
     "HERLANDER",
     "HERLANDERBENTO",
     "nextjs",
+    "PAPAFAM",
     "tailwindcss"
   ]
 }
